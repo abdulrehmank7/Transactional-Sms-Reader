@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PayO assignment</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="all">All</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="set_tag">Set tag</string>
+    <string name="enter_tag_for_the_transaction">Enter tag for the transaction</string>
+    <string name="enter_tag">Enter tag</string>
+    <string name="done">Done</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tags">Tags</string>
+    <string name="share_graph_image">Share Graph Image</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.arkapp.payoassignment.ui.home.HomeFragment"
+        android:label="Home" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.arkapp.payoassignment.ui.history.HistoryFragment"
+        android:label="History"
+        tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/tagFragment"
+        android:name="com.arkapp.payoassignment.ui.tag.TagFragment"
+        android:label="Expense By Tag"
+        tools:layout="@layout/fragment_tag" />
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.arkapp.payoassignment.ui.splash.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash">
+        <action
+            android:id="@+id/action_splashFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/splashFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+</navigation>
