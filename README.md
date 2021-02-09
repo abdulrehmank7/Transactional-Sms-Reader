@@ -1,10 +1,10 @@
 # Transactional-Sms-Reader
-<img src="https://github.com/blessedCode07/Transactional-Sms-Reader/blob/master/home.bmp" width="20%" height="20%"> <img src="https://github.com/blessedCode07/Transactional-Sms-Reader/blob/master/home2.bmp" width="20%" height="20%">
-<img src="https://github.com/blessedCode07/Transactional-Sms-Reader/blob/master/history.bmp" width="20%" height="20%">
-<img src="https://github.com/blessedCode07/Transactional-Sms-Reader/blob/master/history2.bmp" width="20%" height="20%">
-<img src="https://github.com/blessedCode07/Transactional-Sms-Reader/blob/master/history3.bmp" width="20%" height="20%">
-<img src="https://github.com/blessedCode07/Transactional-Sms-Reader/blob/master/tag.bmp" width="20%" height="20%">
-<img src="https://github.com/blessedCode07/Transactional-Sms-Reader/blob/master/tag1.bmp" width="20%" height="20%">
+<img src="https://github.com/abdulrehmank7/Transactional-Sms-Reader/blob/master/home.bmp" width="20%" height="20%"> <img src="https://github.com/abdulrehmank7/Transactional-Sms-Reader/blob/master/home2.bmp" width="20%" height="20%">
+<img src="https://github.com/abdulrehmank7/Transactional-Sms-Reader/blob/master/history.bmp" width="20%" height="20%">
+<img src="https://github.com/abdulrehmank7/Transactional-Sms-Reader/blob/master/history2.bmp" width="20%" height="20%">
+<img src="https://github.com/abdulrehmank7/Transactional-Sms-Reader/blob/master/history3.bmp" width="20%" height="20%">
+<img src="https://github.com/abdulrehmank7/Transactional-Sms-Reader/blob/master/tag.bmp" width="20%" height="20%">
+<img src="https://github.com/abdulrehmank7/Transactional-Sms-Reader/blob/master/tag1.bmp" width="20%" height="20%">
 
 # Features:
 - Reads all transactional sms from the device.
